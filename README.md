@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Sérgio 👋</h1>
 
 <p align="center">
-  <em>💻 Estudante de Engenharia Informática apaixonado por desenvolvimento e sistemas.</em>
+  <em>💻 Estudante de Engenharia Informática e interessado por desenvolvimento e sistemas.</em>
 </p>
 
 ---
@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center">Feito com 💙 por Sérgio Rodrigues</p>
+<p align="center">Powered by Sérgio Rodrigues</p>
