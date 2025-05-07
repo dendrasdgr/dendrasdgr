@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Sérgio 👋</h1>
+<h1 align="center">Olá, eu sou o Dendras💻👋</h1>
 
 <p align="center">
-  <em>💻 Estudante de Engenharia Informática e interessado por desenvolvimento e sistemas.</em>
+  <em>💻 Estudante de Engenharia Informática</em>
 </p>
 
 ---
@@ -20,6 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
@@ -35,6 +38,8 @@
 
 ### 🐍 Snake Game (contribuições animadas)
 
+> ⚠️ Para ver a animação funcionando, você precisa configurar o GitHub Actions. [Veja como fazer isso aqui.](https://github.com/Platane/snk)
+
 <p align="center">
   <img src="https://github.com/dendrasdgr/dendrasdgr/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
@@ -43,9 +48,9 @@
 
 ### 💡 Sobre mim
 
-- 🎓 Estudante de Engenharia Informática
 - 🌍 Português | 🇵🇹
-- 🧠 Gosto de desafios técnicos, performance e segurança
+- 🎓 Estudante de Engenharia Informática
+- 🧠 Gosto de algoritmos desafiadores e efecientes!
 - 🎯 Sempre aprendendo algo novo
 
 ---
