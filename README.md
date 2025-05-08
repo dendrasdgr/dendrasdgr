@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png?f=webp" width="40"/>
+  <img src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w600-h300-pc0xffffff-pd" width="40"/>
 </p>
 
 ---
