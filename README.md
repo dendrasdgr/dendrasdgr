@@ -23,9 +23,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxDbHKmus-zm5gZTAAP8S9qvQE2E0yyFyRg&s" width="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png?f=webp" width="40"/>
   <img src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Greenfoot_Logo.jpg" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_Bloco_de_Notas-pt.PNG" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
