@@ -45,7 +45,7 @@
 
 ### 💡 Sobre mim
 
-- 🌍 Português | 🇵🇹
+- 🌍 Português de bem! | 🇵🇹
 - 🎓 Estudante de Engenharia Informática
 - 🧠 Gosto de algoritmos desafiadores e efecientes!
 - 🎯 Sempre aprendendo algo novo
